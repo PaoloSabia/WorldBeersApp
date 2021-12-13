@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WorldBeersApp</string>
+
+    <!-- TOOLBAR -->
+    <string name="search_icon">Ricerca</string>
+    <string name="search_hint">Ricerca una birra attraverso il nome/descrizione</string>
+
+    <!-- SPLASH ACTIVITY -->
+    <string name="splashTitle">WORLD BEERS APP</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="main_activity_title">Catalogo Birre</string>
+    <string name="list_title_main">Elenco Birre</string>
+    <string name="list_title_loading_beers">Caricamento Elenco Birre</string>
+
+    <!-- BEER ADAPTER -->
+    <string name="beer_name">Nome:</string>
+    <string name="beer_abv">Tasso Alcolico:</string>
+    <string name="beer_ibu">IBU:</string>
+    <string name="beer_description">Descrizione:</string>
+    <string name="beer_value_na">N/A</string>
+
+    <!-- BEER DETAIL FRAGMENT -->
+    <string name="beer_brewed">Data Fermentazione:</string>
+    <string name="beer_food_pairing">Abbinamenti:</string>
+    <string name="beer_tips">Suggerimenti:</string>
+</resources>
